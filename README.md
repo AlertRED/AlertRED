@@ -1,5 +1,20 @@
-### Hi there ✨
-### I am programmer and student
+## Andrukhov Aleksandr
+Hi, I am student and programmer from Russia. In general I am doing programming, mainly in python3. I also had experience with many other languages (example, Java, PHP, C# and others). I write all sorts of programs, mostly are my pet-projects :smile:.
+
+## Skills
+  * Flask
+  * Laravel
+  * Selenium
+## Contact with me
+
+Mail: drammtv@gmail.com
+Telegram: https://t.me/saboteur_man
+WeChat: merovingiann
+
+<br/>
+<!--
+
+
 ## My skills
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/flask.svg"/>
@@ -8,10 +23,6 @@
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"/>
 <img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/>
 
-
-
-<br/>
-<!--
 ## Contact with me
 [<img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
 <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/wechat.svg"/>merovingiann
