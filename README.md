@@ -7,9 +7,9 @@ Hi, I am student and programmer from Russia. In general I am doing programming, 
   * Selenium
 ## Contact with me
 
-Mail: drammtv@gmail.com
-Telegram: https://t.me/saboteur_man
-WeChat: merovingiann
+Mail: drammtv@gmail.com<br/>
+Telegram: https://t.me/saboteur_man<br/>
+WeChat: merovingiann<br/>
 
 <br/>
 <!--
