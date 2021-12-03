@@ -6,9 +6,9 @@ Hi, I am student and programmer from Russia. In general I am doing programming, 
 | ------------- | ------------- | ------------- |
 | <img align="left" width="20px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>Python  | <img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/flask.svg"/>Flask   | <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg"/>Linux |
 | <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg"/>Java  | <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/>Laravel | <img align="left" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/>Git |
-| <img align="left" width="20px"  src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>PHP  | SQLAlchemy | <img align="left" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>PostgeSQL |
+| <img align="left" width="20px"  src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png"/>PHP  | <img align="left" width="20px"  src="https://dev-gang.ru/s/doc/flask-sqlalchemy/assets/icon.png"/>SQLAlchemy | <img align="left" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"/>PostgeSQL |
 | <img align="left" width="20px"  src="https://www.bverhue.nl/delphisvg/wp-content/uploads/2017/04/Embarcadero_Delphi_Logo.png" />Delphi |  | <img align="left" width="20px"  src="https://cdn.worldvectorlogo.com/logos/redis.svg" />Redis |
-|<img align="left" width="20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/932px-C_Sharp_logo.svg.png" />C#|| <img align="left" width="20px"  src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" />RabbitMQ |
+|<img align="left" width="20px"  src="https://i.pinimg.com/originals/79/18/66/791866447147ee53f4e65dffdf90d12b.png" />C#|| <img align="left" width="20px"  src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" />RabbitMQ |
 
 ## Contact with me
 
