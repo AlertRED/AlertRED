@@ -1,5 +1,5 @@
 # Andrukhov Aleksandr
-Hi, I am student and programmer from Russia. In general I am doing programming, mainly in python3. I also had experience with many other languages (example, Java, PHP, C# and others). I write all sorts of programs, mostly are my pet-projects :grin:.
+My name is Alexander, I am a Python web application developer mainly. I am also in love with science and learning. I have a bachelor's degree from the Don State Technical University and a master's degree from the Harbin Institute of Technology. Also I want to get my PhD in China in the future, preferably 🧐
 
 ## Skills
 | Frameworks | Technologies | Others |
