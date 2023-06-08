@@ -1,5 +1,5 @@
 # Andrukhov Aleksandr
-My name is Alexander, I am a Python web application developer mainly. I am also in love with science and learning. I have a bachelor's degree from the Don State Technical University and a master's degree from the Harbin Institute of Technology. Also I want to get my PhD in China in the future, preferably 🧐
+My name is Alexander, I am a Python web application developer mainly. I am also in love with science and learning. I have a bachelor's degree from the Don State Technical University and a master's degree from the Harbin Institute of Technology. Also I want to get my PhD in China in the future, preferably.
 
 ## Skills
 | Frameworks | Technologies | Others |
