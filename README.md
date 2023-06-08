@@ -4,7 +4,7 @@ My name is Alexander, I am a Python web application developer mainly. I am also 
 ## Contact with me
 
 Mail: drammtv@gmail.com<br/>
-Site: merov.org<br/>
+Site: https://merov.org<br/>
 Telegram: https://t.me/saboteur_man<br/>
 WeChat: merovingiann<br/>
 <hr>
