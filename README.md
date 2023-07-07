@@ -8,4 +8,6 @@ Site: https://merov.org<br/>
 Telegram: https://t.me/saboteur_man<br/>
 WeChat: merovingiann<br/>
 <hr>
-<img align="left" src="https://www.codewars.com/users/AlertRED/badges/large" />
+<a href="https://www.codewars.com/users/AlertRED" target="_blank">
+  <img align="left" src="https://www.codewars.com/users/AlertRED/badges/large"/>
+</a>
